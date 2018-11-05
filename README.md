@@ -2,6 +2,8 @@ server-sdk-php
 =================
 
 Rong Cloud Server SDK in PHP.
+# 增加命名空间支持
+感谢原作者，增加命名空间支持，composer自动加载
 
 # 版本说明
 为方便开发者的接入使用，更好的对融云 Server SDK 进行维护管理，融云 Server SDK 2.0 统一规范了命名及调用方式，结构更加清晰。老版本的 Server SDK 仍然可以使用，但不会再做新的功能更新。
