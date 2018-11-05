@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\RongIM\API;
+namespace RongIM\API;
 
 class SendRequest
 {

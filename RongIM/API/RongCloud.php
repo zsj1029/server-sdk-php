@@ -6,16 +6,16 @@
  * 
  * v2.0.1
  */
-namespace Modules\RongIM\API;
+namespace RongIM\API;
 
     
-use Modules\RongIM\API\methods\User;
-use Modules\RongIM\API\methods\Message;
-use Modules\RongIM\API\methods\Chatroom;
-use Modules\RongIM\API\methods\Group;
-use Modules\RongIM\API\methods\Push;
-use Modules\RongIM\API\methods\SMS;
-use Modules\RongIM\API\methods\Wordfilter;
+use RongIM\API\methods\User;
+use RongIM\API\methods\Message;
+use RongIM\API\methods\Chatroom;
+use RongIM\API\methods\Group;
+use RongIM\API\methods\Push;
+use RongIM\API\methods\SMS;
+use RongIM\API\methods\Wordfilter;
 
 class RongCloud
 {

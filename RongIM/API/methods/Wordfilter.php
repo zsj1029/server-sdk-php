@@ -1,8 +1,8 @@
 <?php
 
-namespace Modules\RongIM\API\methods;
+namespace RongIM\API\methods;
 
-use Modules\RongIM\API\SendRequest;
+use RongIM\API\SendRequest;
 class Wordfilter{
 
     /**
